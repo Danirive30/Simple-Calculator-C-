@@ -25,13 +25,13 @@ El programa permite realizar las siguientes operaciones:
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tuusuario/nombre-del-repositorio.git
+   git clone https://github.com/Danirive30/Simple-Calculator-Cpp
    ```
 
 2. Navega al directorio del proyecto:
 
    ```bash
-   cd nombre-del-repositorio
+   cd Simple-Calculator-Cpp
    ```
 
 3. Compila el código:
@@ -43,9 +43,7 @@ El programa permite realizar las siguientes operaciones:
 4. Ejecuta el programa:
    
    ```bash
-   ./Calculadora
+   ./calculadora
    ```
-
-
 
 # Simple-Calculator-Cpp
